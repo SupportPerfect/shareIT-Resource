@@ -1302,7 +1302,7 @@
 - 📋**获取Java学习路线**
 - 🔉**获取开发常用工具**
 
-![](C:\Users\Administrator\Documents\GitHub\shareIT-Resource\assert\wx-gzh.jpg)
+![](https://raw.githubusercontent.com/SupportPerfect/shareIT-Resource/master/assert/wx-gzh.jpg)
 
 #### 💖加入微信群
 
