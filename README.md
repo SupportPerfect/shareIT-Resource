@@ -27,7 +27,7 @@
   * [工具](#工具)
   * [其它<c/c，GO，自媒体运营等等>](#其它)
 * [电子书资源](#电子书资源)
-	* [JAVA](#JAVA)
+	* [JAVA电子书](#JAVA电子书)
 * [资源公众号<关注回复暗号，免费领取资源>](#资源公众号)
     * [💖加入公众号](#💖加入公众号)
     * [💖加入微信群](#💖加入微信群)
@@ -1350,13 +1350,13 @@
 
 ## 电子书资源
 
-### JAVA
+### JAVA电子书
 
 [回到顶部](#目录)
 
 JAVA第一期电子书（共116本）：
 
-[JAVA电子书]: https://github.com/SupportPerfect/shareIT-Resource/blob/master/doc/JAVA%E7%94%B5%E5%AD%90%E4%B9%A6.md
+[JAVA电子书第一期]([https://github.com/SupportPerfect/shareIT-Resource/blob/master/doc/JAVA%E7%94%B5%E5%AD%90%E4%B9%A6.md](https://github.com/SupportPerfect/shareIT-Resource/blob/master/doc/JAVA电子书.md))
 
 
 
