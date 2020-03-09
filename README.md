@@ -1346,6 +1346,16 @@
 | **2018年网络工程师软考视频教程**                |
 | 下载地址：https://72k.us/file/20575239-424618149  轻松学IT公众号回复暗号：0Z65 |
 
+## 电子书资源
+
+### JAVA
+
+JAVA第一期电子书（共116本）：
+
+[资源地址]: https://github.com/SupportPerfect/shareIT-Resource/blob/master/doc/JAVA%E7%94%B5%E5%AD%90%E4%B9%A6.md
+
+
+
 
 
 ## 资源公众号
