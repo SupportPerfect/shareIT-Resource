@@ -1356,7 +1356,7 @@
 
 JAVA第一期电子书（共116本）：
 
-[JAVA电子书第一期](https://github.com/SupportPerfect/shareIT-Resource/blob/master/doc/JAVA%E7%94%B5%E5%AD%90%E4%B9%A6.md](https://github.com/SupportPerfect/shareIT-Resource/blob/master/doc/JAVA电子书.md)
+[JAVA电子书第一期](https://github.com/SupportPerfect/shareIT-Resource/blob/master/doc/JAVA%E7%94%B5%E5%AD%90%E4%B9%A6.md)
 
 
 
