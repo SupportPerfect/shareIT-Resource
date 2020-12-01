@@ -6,6 +6,8 @@
 
 ![](https://github.com/SupportPerfect/shareIT-Resource/blob/master/assert/mini.jpg)
 
+**如果资源失效,请点击 [备用链接](https://t.1yb.co/aMGX) 扫码小程序码获取资源**
+
 # 目录
 
 * [视频资源](#视频资源)
