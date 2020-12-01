@@ -5,8 +5,9 @@
 **有同学反映，资源名不方便找到合适自己的资源，为方便资源的查找与资源详情目录的查看，开发了一个小程序来管理分享的资源**
 
 ![](https://github.com/SupportPerfect/shareIT-Resource/blob/master/assert/mini.jpg)
+                  🔥🔥🔥**由于网盘地址问题,请点击 [备用链接](https://t.1yb.co/aMGX) 扫码小程序码获取资源**🔥🔥🔥
 
-               🔥🔥🔥**由于网盘地址问题,请点击 [备用链接](https://t.1yb.co/aMGX) 扫码小程序码获取资源**🔥🔥🔥
+               
 
 # 目录
 
